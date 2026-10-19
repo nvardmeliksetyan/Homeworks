@@ -1,0 +1,5 @@
+scenario,M,p,q,peak_t,peak_year,early_majority_from,laggards_from,peak_year_new_adopters,model_cumulative_end_2025
+"B - calibrated p, low M",6000000.0,0.0379,0.3096,6.05,2028.0,2024.3,2031.8,579898,1000000
+"B - calibrated p, base M",12000000.0,0.0178,0.3096,8.72,2030.7,2026.7,2034.7,1035178,1000000
+"B - calibrated p, high M",20000000.0,0.0104,0.3096,10.59,2032.6,2028.5,2036.7,1650467,1000000
+"A - look-alike p, base M",12000000.0,0.0106,0.3096,10.53,2032.5,2028.4,2036.6,991583,610129

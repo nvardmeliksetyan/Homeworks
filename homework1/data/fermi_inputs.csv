@@ -1,0 +1,11 @@
+input,value,type,source
+US population (2024),340000000,data,"U.S. Census Bureau Vintage 2024 estimates (US population surpasses 340 million), via thearp.org"
+Share of US population under 18,0.215,data,"U.S. Census Bureau (2024), Under-18 population, July 1 2024"
+Share of US children who attend summer camp,0.12,data,"American Camp Association, via Rustic Pathways summer camp statistics"
+Camp children who eventually get a screen-free camera,0.50,assumption,Own Fermi assumption (core segment; product was designed for screen-free camps)
+Other children who eventually get a screen-free camera,0.075,assumption,Own Fermi assumption
+Adults who eventually buy one (nostalgia/travel/gifts),0.01,assumption,Own Fermi assumption
+Camp Snap launch year,2023,data,"Modern Retail (2026, Mar 9)"
+Camp Snap cumulative cameras sold by early 2026,1000000,data,"Modern Retail (2026, Mar 9): more than 1 million cameras sold"
+Market potential M - low scenario,6000000,assumption,Half of the base Fermi estimate
+Market potential M - high scenario,20000000,assumption,About 1.7x the base Fermi estimate
